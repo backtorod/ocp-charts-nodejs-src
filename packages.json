@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/sclorg/nodejs-ex.git"
+    "url": "http://github.com/rguareschi/ocp-charts-nodejs-src.git"
   },
-  "author": "Steve Speicher <sspeiche@gmail.com>",
-  "license": "CC-BY-1.0",
+  "author": "Rod Guareschi <rguareschi@cloud44.io>",
+  "license": "C44-LIC-1.0",
   "bugs": {
-    "url": "http://github.com/sclorg/nodejs-ex/issues"
+    "url": "http://github.com/rguareschi/ocp-charts-nodejs-src/issues"
   },
-  "homepage": "http://github.com/sclorg/nodejs-ex"
+  "homepage": "http://github.com/rguareschi/ocp-charts-nodejs-src.git"
 }
