@@ -26,7 +26,7 @@
     "url": "http://github.com/rguareschi/ocp-charts-nodejs-src.git"
   },
   "author": "Rod Guareschi <rguareschi@cloud44.io>",
-  "license": "C44-LIC-1.0",
+  "license": "C44-LIC-1.1",
   "bugs": {
     "url": "http://github.com/rguareschi/ocp-charts-nodejs-src/issues"
   },
